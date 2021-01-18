@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/.idea.intro.iml
+/modules.xml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../:\gitrepos\C-sharp\.idea\.idea.intro\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
