@@ -20,17 +20,17 @@ namespace schoolFormsApp
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            throw new System.NotImplementedException();
+            
         }
 
         private void label3_Click(object sender, EventArgs e)
         {
-            throw new System.NotImplementedException();
+            
         }
 
         private void label7_Click(object sender, EventArgs e)
         {
-            throw new System.NotImplementedException();
+            
         }
 
         private void btnpushtotest_Click(object sender, EventArgs e)
@@ -50,6 +50,8 @@ namespace schoolFormsApp
             {
                 MessageBox.Show(ex.Message);
             }
+
+            MessageBox.Show(testSchool.ToString());
         }
     }
 }
