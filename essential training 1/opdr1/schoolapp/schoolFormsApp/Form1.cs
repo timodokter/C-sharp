@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO.Pipes;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -52,6 +53,22 @@ namespace schoolFormsApp
             }
 
             MessageBox.Show(testSchool.ToString());
+
+            var teacher = new Teacher(); // for test only - remove later
+        }
+
+        private void btntesteacher_Click(object sender, EventArgs e)
+        {
+            var teacher = new Teacher();
+            var gp = teacher.ComputeGradeAverage();
+            MessageBox.Show("the teachers grade average is " + gp);
+        }
+
+        private void btnteststudent_Click(object sender, EventArgs e)
+        {
+            var student = new Student();
+            var gp = student.ComputeGradeAverage();
+            MessageBox.Show("the students grade average is " + gp);
         }
     }
 }

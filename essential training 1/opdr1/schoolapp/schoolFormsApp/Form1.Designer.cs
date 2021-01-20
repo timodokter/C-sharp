@@ -45,6 +45,8 @@
             this.txtCity = new System.Windows.Forms.TextBox();
             this.txtAddres = new System.Windows.Forms.TextBox();
             this.btnpushtotest = new System.Windows.Forms.Button();
+            this.btntesteacher = new System.Windows.Forms.Button();
+            this.btnteststudent = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -188,11 +190,33 @@
             this.btnpushtotest.UseVisualStyleBackColor = true;
             this.btnpushtotest.Click += new System.EventHandler(this.btnpushtotest_Click);
             // 
+            // btntesteacher
+            // 
+            this.btntesteacher.Location = new System.Drawing.Point(401, 55);
+            this.btntesteacher.Name = "btntesteacher";
+            this.btntesteacher.Size = new System.Drawing.Size(289, 88);
+            this.btntesteacher.TabIndex = 16;
+            this.btntesteacher.Text = "test teacher";
+            this.btntesteacher.UseVisualStyleBackColor = true;
+            this.btntesteacher.Click += new System.EventHandler(this.btntesteacher_Click);
+            // 
+            // btnteststudent
+            // 
+            this.btnteststudent.Location = new System.Drawing.Point(407, 186);
+            this.btnteststudent.Name = "btnteststudent";
+            this.btnteststudent.Size = new System.Drawing.Size(343, 132);
+            this.btnteststudent.TabIndex = 17;
+            this.btnteststudent.Text = "test student";
+            this.btnteststudent.UseVisualStyleBackColor = true;
+            this.btnteststudent.Click += new System.EventHandler(this.btnteststudent_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(842, 490);
+            this.Controls.Add(this.btnteststudent);
+            this.Controls.Add(this.btntesteacher);
             this.Controls.Add(this.btnpushtotest);
             this.Controls.Add(this.txtAddres);
             this.Controls.Add(this.txtCity);
@@ -215,6 +239,9 @@
             this.ResumeLayout(false);
             this.PerformLayout();
         }
+
+        private System.Windows.Forms.Button btntesteacher;
+        private System.Windows.Forms.Button btnteststudent;
 
         private System.Windows.Forms.Button btnpushtotest;
 
