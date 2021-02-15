@@ -1,0 +1,6 @@
+D:\gitrepos\C-sharp\code clinin C#\opdr 1\weather pond Oreille\WeatherData\bin\Release\WeatherData.dll
+D:\gitrepos\C-sharp\code clinin C#\opdr 1\weather pond Oreille\WeatherData\bin\Release\WeatherData.pdb
+D:\gitrepos\C-sharp\code clinin C#\opdr 1\weather pond Oreille\WeatherData\obj\Release\WeatherData.csprojAssemblyReference.cache
+D:\gitrepos\C-sharp\code clinin C#\opdr 1\weather pond Oreille\WeatherData\obj\Release\WeatherData.csproj.CoreCompileInputs.cache
+D:\gitrepos\C-sharp\code clinin C#\opdr 1\weather pond Oreille\WeatherData\obj\Release\WeatherData.dll
+D:\gitrepos\C-sharp\code clinin C#\opdr 1\weather pond Oreille\WeatherData\obj\Release\WeatherData.pdb

@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.EssentialTraining.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\gitrepos\C-sharp\essential training 2\opdr1\EssentialTraining\.idea\.idea.EssentialTraining\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

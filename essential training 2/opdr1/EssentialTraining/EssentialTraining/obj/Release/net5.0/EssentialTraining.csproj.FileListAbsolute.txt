@@ -1,0 +1,12 @@
+D:\gitrepos\C-sharp\essential training 2\opdr1\EssentialTraining\EssentialTraining\bin\Release\net5.0\EssentialTraining.deps.json
+D:\gitrepos\C-sharp\essential training 2\opdr1\EssentialTraining\EssentialTraining\bin\Release\net5.0\EssentialTraining.dll
+D:\gitrepos\C-sharp\essential training 2\opdr1\EssentialTraining\EssentialTraining\bin\Release\net5.0\ref\EssentialTraining.dll
+D:\gitrepos\C-sharp\essential training 2\opdr1\EssentialTraining\EssentialTraining\bin\Release\net5.0\EssentialTraining.pdb
+D:\gitrepos\C-sharp\essential training 2\opdr1\EssentialTraining\EssentialTraining\obj\Release\net5.0\EssentialTraining.csprojAssemblyReference.cache
+D:\gitrepos\C-sharp\essential training 2\opdr1\EssentialTraining\EssentialTraining\obj\Release\net5.0\EssentialTraining.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\C-sharp\essential training 2\opdr1\EssentialTraining\EssentialTraining\obj\Release\net5.0\EssentialTraining.AssemblyInfoInputs.cache
+D:\gitrepos\C-sharp\essential training 2\opdr1\EssentialTraining\EssentialTraining\obj\Release\net5.0\EssentialTraining.AssemblyInfo.cs
+D:\gitrepos\C-sharp\essential training 2\opdr1\EssentialTraining\EssentialTraining\obj\Release\net5.0\EssentialTraining.csproj.CoreCompileInputs.cache
+D:\gitrepos\C-sharp\essential training 2\opdr1\EssentialTraining\EssentialTraining\obj\Release\net5.0\EssentialTraining.dll
+D:\gitrepos\C-sharp\essential training 2\opdr1\EssentialTraining\EssentialTraining\obj\Release\net5.0\ref\EssentialTraining.dll
+D:\gitrepos\C-sharp\essential training 2\opdr1\EssentialTraining\EssentialTraining\obj\Release\net5.0\EssentialTraining.pdb

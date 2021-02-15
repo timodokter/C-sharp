@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c21ea07e-3301-4525-972a-adf126d327df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Environmental_Data_Deep_Moor_2012.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Environmental_Data_Deep_Moor_2013.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Environmental_Data_Deep_Moor_2014.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Environmental_Data_Deep_Moor_2015.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/.idea/.idea.EssentialTraining/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/.idea/.idea.EssentialTraining/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/.idea/.idea.EssentialTraining/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/.idea/.idea.EssentialTraining/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/.idea/.idea.EssentialTraining/.idea/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/.idea/.idea.EssentialTraining/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/AwesomeSauce.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/EssentialTraining.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/FlowControl.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/ProgrammingLoops.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/SimpleArray.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/obj/Debug/net5.0/EssentialTraining.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/obj/Debug/net5.0/EssentialTraining.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/obj/Debug/net5.0/EssentialTraining.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/obj/Debug/net5.0/EssentialTraining.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/obj/Debug/net5.0/EssentialTraining.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/obj/EssentialTraining.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/obj/EssentialTraining.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/obj/EssentialTraining.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTraining/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/EssentialTrainingApp.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/bin/Debug/net5.0/EssentialTrainingApp.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/bin/Debug/net5.0/EssentialTrainingApp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/bin/Debug/net5.0/EssentialTrainingApp.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/bin/Debug/net5.0/EssentialTrainingApp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/bin/Debug/net5.0/EssentialTrainingApp.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/bin/Debug/net5.0/EssentialTrainingApp.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/bin/Debug/net5.0/ref/EssentialTrainingApp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/Debug/net5.0/EssentialTrainingApp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/Debug/net5.0/EssentialTrainingApp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/Debug/net5.0/EssentialTrainingApp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/Debug/net5.0/EssentialTrainingApp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/Debug/net5.0/EssentialTrainingApp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/Debug/net5.0/EssentialTrainingApp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/Debug/net5.0/EssentialTrainingApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/Debug/net5.0/EssentialTrainingApp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/Debug/net5.0/EssentialTrainingApp.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/Debug/net5.0/EssentialTrainingApp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/Debug/net5.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/Debug/net5.0/ref/EssentialTrainingApp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/EssentialTrainingApp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/EssentialTrainingApp.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/EssentialTrainingApp.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingApp/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/AwesomeSauceTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/EssentialTrainingTests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/SimpleArrayTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/UnitTest1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/obj/Debug/net5.0/EssentialTrainingTests.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/obj/Debug/net5.0/EssentialTrainingTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/obj/Debug/net5.0/EssentialTrainingTests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/obj/Debug/net5.0/EssentialTrainingTests.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/obj/Debug/net5.0/EssentialTrainingTests.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/obj/EssentialTrainingTests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/obj/EssentialTrainingTests.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/obj/EssentialTrainingTests.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../essential training 2/opdr1/EssentialTraining/EssentialTrainingTests/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../essential training 1/opdr1/schoolapp/schoolFormsApp/bin/Debug/net5.0-windows/schoolFormsApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../essential training 1/opdr1/schoolapp/schoolFormsApp/bin/Debug/net5.0-windows/schoolFormsApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../essential training 1/opdr1/schoolapp/schoolFormsApp/bin/Debug/net5.0-windows/schoolFormsApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../essential training 1/opdr1/schoolapp/schoolFormsApp/bin/Debug/net5.0-windows/schoolFormsApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../essential training 1/opdr1/schoolapp/schoolFormsApp/obj/Debug/net5.0-windows/schoolFormsApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../essential training 1/opdr1/schoolapp/schoolFormsApp/obj/Debug/net5.0-windows/schoolFormsApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../essential training 1/opdr1/schoolapp/schoolFormsApp/obj/Debug/net5.0-windows/schoolFormsApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../essential training 1/opdr1/schoolapp/schoolFormsApp/obj/Debug/net5.0-windows/schoolFormsApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../essential training 1/opdr1/schoolapp/schoolFormsApp/obj/Debug/net5.0-windows/schoolFormsApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../essential training 1/opdr1/schoolapp/schoolFormsApp/obj/Debug/net5.0-windows/schoolFormsApp.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1ns4KzWgvnbsvP1F9Bq6bM4HiNM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c21ea07e-3301-4525-972a-adf126d327df" name="Default Changelist" comment="" />
+      <created>1612165405025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612165405025</updated>
+      <workItem from="1612165413346" duration="711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

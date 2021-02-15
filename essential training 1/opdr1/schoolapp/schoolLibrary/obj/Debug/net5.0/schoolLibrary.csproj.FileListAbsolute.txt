@@ -1,0 +1,12 @@
+D:\gitrepos\C-sharp\essential training 1\opdr1\schoolapp\schoolLibrary\bin\Debug\net5.0\schoolLibrary.deps.json
+D:\gitrepos\C-sharp\essential training 1\opdr1\schoolapp\schoolLibrary\bin\Debug\net5.0\schoolLibrary.dll
+D:\gitrepos\C-sharp\essential training 1\opdr1\schoolapp\schoolLibrary\bin\Debug\net5.0\ref\schoolLibrary.dll
+D:\gitrepos\C-sharp\essential training 1\opdr1\schoolapp\schoolLibrary\bin\Debug\net5.0\schoolLibrary.pdb
+D:\gitrepos\C-sharp\essential training 1\opdr1\schoolapp\schoolLibrary\obj\Debug\net5.0\schoolLibrary.csprojAssemblyReference.cache
+D:\gitrepos\C-sharp\essential training 1\opdr1\schoolapp\schoolLibrary\obj\Debug\net5.0\schoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\C-sharp\essential training 1\opdr1\schoolapp\schoolLibrary\obj\Debug\net5.0\schoolLibrary.AssemblyInfoInputs.cache
+D:\gitrepos\C-sharp\essential training 1\opdr1\schoolapp\schoolLibrary\obj\Debug\net5.0\schoolLibrary.AssemblyInfo.cs
+D:\gitrepos\C-sharp\essential training 1\opdr1\schoolapp\schoolLibrary\obj\Debug\net5.0\schoolLibrary.csproj.CoreCompileInputs.cache
+D:\gitrepos\C-sharp\essential training 1\opdr1\schoolapp\schoolLibrary\obj\Debug\net5.0\schoolLibrary.dll
+D:\gitrepos\C-sharp\essential training 1\opdr1\schoolapp\schoolLibrary\obj\Debug\net5.0\ref\schoolLibrary.dll
+D:\gitrepos\C-sharp\essential training 1\opdr1\schoolapp\schoolLibrary\obj\Debug\net5.0\schoolLibrary.pdb

@@ -1,0 +1,7 @@
+D:\gitrepos\C-sharp\code clinin C#\opdr 2\WhereAmI\bin\Debug\WhereAmI.exe.config
+D:\gitrepos\C-sharp\code clinin C#\opdr 2\WhereAmI\bin\Debug\WhereAmI.exe
+D:\gitrepos\C-sharp\code clinin C#\opdr 2\WhereAmI\bin\Debug\WhereAmI.pdb
+D:\gitrepos\C-sharp\code clinin C#\opdr 2\WhereAmI\obj\Debug\WhereAmI.csprojAssemblyReference.cache
+D:\gitrepos\C-sharp\code clinin C#\opdr 2\WhereAmI\obj\Debug\WhereAmI.csproj.CoreCompileInputs.cache
+D:\gitrepos\C-sharp\code clinin C#\opdr 2\WhereAmI\obj\Debug\WhereAmI.exe
+D:\gitrepos\C-sharp\code clinin C#\opdr 2\WhereAmI\obj\Debug\WhereAmI.pdb

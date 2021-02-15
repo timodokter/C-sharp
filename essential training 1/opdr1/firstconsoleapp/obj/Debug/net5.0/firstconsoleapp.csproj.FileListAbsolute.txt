@@ -1,0 +1,16 @@
+D:\gitrepos\C-sharp\essential training 1\opdr1\firstconsoleapp\bin\Debug\net5.0\firstconsoleapp.exe
+D:\gitrepos\C-sharp\essential training 1\opdr1\firstconsoleapp\bin\Debug\net5.0\firstconsoleapp.deps.json
+D:\gitrepos\C-sharp\essential training 1\opdr1\firstconsoleapp\bin\Debug\net5.0\firstconsoleapp.runtimeconfig.json
+D:\gitrepos\C-sharp\essential training 1\opdr1\firstconsoleapp\bin\Debug\net5.0\firstconsoleapp.runtimeconfig.dev.json
+D:\gitrepos\C-sharp\essential training 1\opdr1\firstconsoleapp\bin\Debug\net5.0\firstconsoleapp.dll
+D:\gitrepos\C-sharp\essential training 1\opdr1\firstconsoleapp\bin\Debug\net5.0\ref\firstconsoleapp.dll
+D:\gitrepos\C-sharp\essential training 1\opdr1\firstconsoleapp\bin\Debug\net5.0\firstconsoleapp.pdb
+D:\gitrepos\C-sharp\essential training 1\opdr1\firstconsoleapp\obj\Debug\net5.0\firstconsoleapp.csprojAssemblyReference.cache
+D:\gitrepos\C-sharp\essential training 1\opdr1\firstconsoleapp\obj\Debug\net5.0\firstconsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\C-sharp\essential training 1\opdr1\firstconsoleapp\obj\Debug\net5.0\firstconsoleapp.AssemblyInfoInputs.cache
+D:\gitrepos\C-sharp\essential training 1\opdr1\firstconsoleapp\obj\Debug\net5.0\firstconsoleapp.AssemblyInfo.cs
+D:\gitrepos\C-sharp\essential training 1\opdr1\firstconsoleapp\obj\Debug\net5.0\firstconsoleapp.csproj.CoreCompileInputs.cache
+D:\gitrepos\C-sharp\essential training 1\opdr1\firstconsoleapp\obj\Debug\net5.0\firstconsoleapp.dll
+D:\gitrepos\C-sharp\essential training 1\opdr1\firstconsoleapp\obj\Debug\net5.0\ref\firstconsoleapp.dll
+D:\gitrepos\C-sharp\essential training 1\opdr1\firstconsoleapp\obj\Debug\net5.0\firstconsoleapp.pdb
+D:\gitrepos\C-sharp\essential training 1\opdr1\firstconsoleapp\obj\Debug\net5.0\firstconsoleapp.genruntimeconfig.cache
